@@ -1,0 +1,62 @@
+*{
+    background-color: antiquewhite;
+}
+
+.button{
+    background-color: aliceblue;
+    padding: 20px;
+}
+
+#calculation{
+    padding: auto;
+    background-color: cyan;
+    margin: 10px;
+}
+
+/* App.css */
+.data {
+    max-width: 300px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #f9f9f9;
+  }
+  
+  input[type="text"] {
+    width: 90%;
+    height: 40px;
+    margin-bottom: 20px;
+    padding: 5px;
+    font-size: 1.2em;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .button {
+    width: 22%;
+    height: 40px;
+    margin: 5px 1%;
+    font-size: 1.2em;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #e7e7e7;
+  }
+  
+  .button:hover {
+    background-color: #d4d4d4;
+  }
+  
+  .button.button1 {
+    width: 48%;
+    background-color: #ff6666;
+    color: white;
+  }
+  
+  .button.button1:hover {
+    background-color: #ff4d4d;
+  }
+
+
