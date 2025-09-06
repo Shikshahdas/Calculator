@@ -9,8 +9,8 @@ A simple, clean, and responsive calculator web app built using HTML, CSS, and Ja
 -> Multiplication ✖️ <br>
 -> Division ➗ <br>
 
-### Getting Started with Create React App 
-## Available Scripts
+## Getting Started with Create React App⚡
+### Available Scripts :
 
 In the project directory, you can run:
 
@@ -73,6 +73,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
+### `npm run build`
+fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
