@@ -1,7 +1,15 @@
-# Getting Started with Create React App 
+# 🧮 Calculator 
+A simple, clean, and responsive calculator web app built using HTML, CSS, and JavaScript.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 🚀 Features :
 
+### Perform basic arithmetic operations :
+-> Addition ➕ <br>
+-> Subtraction ➖ <br>
+-> Multiplication ✖️ <br>
+-> Division ➗ <br>
+
+### Getting Started with Create React App 
 ## Available Scripts
 
 In the project directory, you can run:
